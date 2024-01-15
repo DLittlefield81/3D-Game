@@ -37,7 +37,7 @@ Follow these steps to install this project on your local machine.
 
 ## Application
 
-- Link to Game: https://tempestgames.offworldportal.ca/3d-game/
+- Link to Game: https://dlittlefield81.github.io/3D-Game/
 - Deployed Application in HTML / 3JS 
 
 ## Images
